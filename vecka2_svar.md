@@ -24,3 +24,22 @@ Det är viktigt eftersom man kan gå tillbaka och se tidigare ändringar om någ
 ### Exempel
 
 Om jag har gjort klart en inloggning och gör en commit, så har jag sparat den versionen. Om jag sedan lägger till något nytt och inloggningen slutar fungera kan jag gå tillbaka till den tidigare versionen där inloggningen fungerade.
+
+
+## Fråga 3: Samarbete med GitHub
+
+### Samarbete med GitHub
+
+GitHub gör det möjligt för flera personer att arbeta tillsammans på samma projekt. Man kan se ändringar och vem som har gjort dem.
+
+### Branch
+
+En branch är en separat arbetsgren. Man kan göra ändringar i en branch utan att påverka main. Det gör att flera personer kan arbeta med olika saker samtidigt.
+
+### Pull request
+
+En pull request är en förfrågan om att lägga in sina ändringar från sin branch i main. Då kan någon annan först kolla igenom ändringarna innan de läggs in.
+
+### Merge
+
+Merge betyder att man slår ihop ändringarna från en branch med main.

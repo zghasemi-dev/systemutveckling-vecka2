@@ -1,5 +1,4 @@
 # Systemutveckling Vecka 2
-# Systemutveckling Vecka 2
 
 ## Fråga 1: Skillnaden mellan vattenfall och agilt
 
@@ -24,7 +23,6 @@ Det är viktigt eftersom man kan gå tillbaka och se tidigare ändringar om någ
 ### Exempel
 
 Om jag har gjort klart en inloggning och gör en commit, så har jag sparat den versionen. Om jag sedan lägger till något nytt och inloggningen slutar fungera kan jag gå tillbaka till den tidigare versionen där inloggningen fungerade.
-
 
 ## Fråga 3: Samarbete med GitHub
 
